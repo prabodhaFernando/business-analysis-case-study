@@ -65,7 +65,7 @@ QuickMart records all sales and stock in a paper notebook. This causes frequent 
 
 ## Contents
 - BRD (coming soon)
-- User stories (User-Stories.xlsx)
+- [User stories](User-Stories.xlsx)
 - Process flow (coming soon)
 - Use case diagram (coming soon)
 - Wireframes (coming soon)
