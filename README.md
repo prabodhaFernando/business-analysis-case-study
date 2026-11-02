@@ -48,6 +48,20 @@ QuickMart records all sales and stock in a paper notebook. This causes frequent 
 - **In scope:** sales entry, stock management, daily reports, low-stock alerts.
 - **Out of scope:** online ordering, customer loyalty program, accounting and payroll.
 
+  ## User Stories
+Full details with acceptance criteria are in [User-Stories.xlsx](User-Stories.xlsx).
+
+| ID | As a... | I want to... | So that... | Linked requirement | Priority |
+|---|---|---|---|---|---|
+| US1 | User | log in with my username and password | only authorized people can use the system | FR1, NFR2 | High |
+| US2 | Stock keeper | add, update and delete items | the stock list is always correct | FR2 | High |
+| US3 | Cashier | record a sale and see the total bill | I can serve customers quickly and correctly | FR3 | High |
+| US4 | Shop owner | have stock reduced automatically after each sale | I don't need to update the notebook by hand | FR4 | High |
+| US5 | Shop owner | see a warning when an item is running low | I can reorder before it runs out | FR5 | High |
+| US6 | Shop owner | view a daily sales report | I can finish my evening totals in minutes | FR6 | High |
+| US7 | Shop owner | view sales for a date range | I can compare weeks and months | FR7 | Medium |
+| US8 | Stock keeper | save supplier details for each item | I know who to contact when reordering | FR8 | Low |
+
 ## What tools did I use?
 (To be written)
 
