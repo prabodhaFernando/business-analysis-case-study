@@ -78,7 +78,7 @@ Full details with acceptance criteria are in [User-Stories.xlsx](User-Stories.xl
 (To be written)
 
 ## Contents
-- BRD (coming soon)
+- [BRD](BRD.pdf)
 - [User stories](User-Stories.xlsx)
 - Process flow (coming soon)
 - Use case diagram (coming soon)
